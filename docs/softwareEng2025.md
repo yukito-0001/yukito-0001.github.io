@@ -1,3 +1,9 @@
+---
+layout: page
+title:"software Eng. lecture note
+permalink: /docs/softwareEng2025
+---
+
 ソフトウェア第一回
 ソフトウェア工学の難しいところとして「実務から体系化された知見」と
 「知見と実践の乖離」と「個々人のソフトウェア工学の知識だけでは不十分」
